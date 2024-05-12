@@ -28,7 +28,7 @@
         <button @click="getList">getList</button>
         <button @click="putList">putList</button>
         <button @click="delList">delList</button>
-        <button @click="tiao">跳转</button>
+        <button @click="tiao">123123123</button>
         <h1>2.00</h1>
         <h1>2.01</h1>    
         <h1>2.0222</h1>  
