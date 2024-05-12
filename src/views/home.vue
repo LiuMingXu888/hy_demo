@@ -29,12 +29,7 @@
         <button @click="putList">putList</button>
         <button @click="delList">delList</button>
         <button @click="tiao">跳转</button>
-        <h1>我是H1</h1>
-        <h1>我是好</h1>
-        <h1>我是好</h1>
-        <h1>我是vscode中修改的数据</h1>
-        <h1>我是gitHub 上修改的数据</h1>
-        <h1>我是修心的</h1>
+        <h1>2.00</h1>
     </div>
 </template>
 
