@@ -31,6 +31,7 @@
         <button @click="tiao">跳转</button>
         <h1>2.00</h1>
         <h1>2.01</h1>    
+        <h1>2.0222</h1>  
     </div>
 </template>
 
